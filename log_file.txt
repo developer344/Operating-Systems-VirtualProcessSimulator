@@ -1,0 +1,17 @@
+The product of time-memory is: 0.202969
+The average value of the size of the empty spaces in memory per second is: 102.020000
+The variance of the size of the empty spaces in memory per second is: 462.646061
+Process with ID: 1 and size: 46KB Started in second: 0 and ended in second: 14 it ran for 14 seconds 
+Process with ID: 2 and size: 17KB Started in second: 12 and ended in second: 24 it ran for 12 seconds 
+Process with ID: 3 and size: 42KB Started in second: 14 and ended in second: 17 it ran for 3 seconds 
+Process with ID: 4 and size: 37KB Started in second: 17 and ended in second: 23 it ran for 6 seconds 
+Process with ID: 5 and size: 16KB Started in second: 25 and ended in second: 29 it ran for 4 seconds 
+Process with ID: 6 and size: 24KB Started in second: 47 and ended in second: 65 it ran for 18 seconds 
+Process with ID: 7 and size: 23KB Started in second: 57 and ended in second: 59 it ran for 2 seconds 
+Process with ID: 8 and size: 30KB Started in second: 58 and ended in second: 61 it ran for 3 seconds 
+Process with ID: 9 and size: 15KB Started in second: 70 and ended in second: 72 it ran for 2 seconds 
+Process with ID: 10 and size: 39KB Started in second: 72 and ended in second: 73 it ran for 1 seconds 
+Process with ID: 11 and size: 46KB Started in second: 74 and ended in second: 80 it ran for 6 seconds 
+Process with ID: 12 and size: 30KB Started in second: 81 and ended in second: 84 it ran for 3 seconds 
+Process with ID: 13 and size: 37KB Started in second: 87 and ended in second: 92 it ran for 5 seconds 
+Process with ID: 14 and size: 15KB Started in second: 90 and did not finish, it ran for 10 seconds 
